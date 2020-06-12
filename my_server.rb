@@ -1,1 +1,3 @@
-class My
+class MyServer 
+  
+def(ENV)
